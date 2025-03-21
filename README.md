@@ -1,6 +1,3 @@
-# Python-info-sec-TASK2
-# API Documentation
-
 ## Authorization Functionality
 
 ### JWT-Based Authentication
